@@ -31,3 +31,8 @@ As a result i try to solve this expression with the STACK_BASED_ALU module:
 2 * 3 + (10 + 4 + 3) * -20 + (6 + 5)
 
 the full guide for the steps that i pass through is in the report in Document folder and you can see but in the picture below i wanna show you the final result:
+
+![result](https://github.com/pedrammmmmm/STACK-BASED-ALU/assets/122311109/66b25955-9d37-47f5-99dd-c4da7352d41b)
+
+As you see the final result is -323, as expected.
+you can see other tests and their result on STACK_BASED_ALU in in report pdf in Document folder.
