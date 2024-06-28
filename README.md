@@ -16,7 +16,7 @@ in other operations like Push or Pop we put input data in top element of the sta
 
 Also in addition and multiplication we check for the overflow and if it happends set the overflow flag to one.
 
-More explanation for how does it work exactly is in the code and in STACK_BASED_ALU module you can see the comments to make sure that which section belongs to whick opcode.
+More explanation for how does it work exactly is in the code and in STACK_BASED_ALU module you can see the comments to make sure that which section belongs to which opcode.
 
 ## How to Run
 One way to run this project is:
@@ -35,4 +35,4 @@ the full guide for the steps that i pass through is in the report in Document fo
 ![result](https://github.com/pedrammmmmm/STACK-BASED-ALU/assets/122311109/66b25955-9d37-47f5-99dd-c4da7352d41b)
 
 As you see the final result is -323, as expected.
-you can see other tests and their result on STACK_BASED_ALU in in report pdf in Document folder.
+you can see other tests and their result on STACK_BASED_ALU in report pdf in Document folder.
